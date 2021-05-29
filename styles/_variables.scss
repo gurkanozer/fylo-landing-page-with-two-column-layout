@@ -1,0 +1,27 @@
+/**FONTS*/
+$font-raleway: "Raleway", sans-serif;
+$font-open-sans: "Open Sans", sans-serif;
+
+/**COLORS*/
+$color-dark-blue: hsl(243, 87%, 12%);
+$color-desaturated-blue: hsl(238, 22%, 44%);
+
+$color-bright-blue: hsl(224, 93%, 58%);
+$color-moderate-cyan: hsl(170, 45%, 43%);
+$color-light-grayish-blue: hsl(240, 75%, 98%);
+$color-light-gray: hsl(0, 0%, 75%);
+
+$color-facebook: #4267b2;
+$color-twitter: #1da1f2;
+$color-instagram: #e1306c;
+
+$theme-colors: (
+  "primary": $color-bright-blue,
+  //   "danger": $color-danger,
+  "light": $color-light-grayish-blue,
+  "secondary": $color-desaturated-blue,
+  "dark": $color-dark-blue,
+  "success": $color-moderate-cyan,
+);
+
+$font-family-base: "Open Sans", sans-serif;
